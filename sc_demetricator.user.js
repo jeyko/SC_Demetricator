@@ -2,7 +2,7 @@
 // @name         SCL Demetricator
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Demetricates FB Mobile, returning the human in social relations!
+// @description  Demetricates SoundCloud.
 // @author       Gug
 // @match        https://soundcloud.com/*
 // @run-at       document-start
